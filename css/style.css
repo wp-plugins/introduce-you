@@ -1,0 +1,19 @@
+.IntroduceYou {
+	margin-top: 10px;
+}
+
+.IntroduceYou span {
+	color: #0374A3;
+	font-weight: bold;
+	margin-top: 5px;
+}
+.IntroduceYou img {
+	margin: 0 auto;
+    padding: 2px;
+	text-align:center;
+    border: 1px solid #999;
+    max-width:180px;
+}
+.IntroduceYou li a {
+	border-bottom: 1px dashed #0374A3;
+}
