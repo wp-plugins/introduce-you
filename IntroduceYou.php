@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Introduce You!
-Plugin URI: http://soluo.fr/?utm_campaign=WordPress_plugin_directory&utm_medium=web&utm_source=IntroduceYou
+Plugin URI: http://soluo.fr/?utm_campaign=WordPress_plugin_directory&utm_medium=web&utm_source=introduce-you
 Description: Allows you to introduce individuals, one per page
 Version: 0.1
 Author: Thibaut CAMBERLIN
-Author URI: http://www.soluo.fr/
+Author URI: http://soluo.fr/?utm_campaign=WordPress_plugin_directory&utm_medium=web&utm_source=introduce-you
 
 /*  Copyright 2009 Thibaut CAMBERLIN  (email : thibaut@soluo.fr)
 
